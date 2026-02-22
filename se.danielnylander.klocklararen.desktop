@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uklocklararen
+Comment=Learn to read the clock for children with IF
+Comment[sv]=Lär sig klockan
+Exec=klocklararen
+Icon=se.danielnylander.klocklararen
+Type=Application
+Categories=Education;Accessibility;
