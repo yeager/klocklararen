@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the klocklararen package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: klocklararen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"PO-Revision-Date: 2026-02-22 16:22+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305245/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/klocklararen/main.py:71 src/klocklararen/main.py:162
+msgid "Klockläraren"
+msgstr "Klockläraren"
+
+#: src/klocklararen/main.py:80
+msgid "About"
+msgstr "Om"
+
+#: src/klocklararen/main.py:94
+msgid "What time is it?"
+msgstr "Vad är klockan?"
+
+#: src/klocklararen/main.py:110
+msgid "Score: 0"
+msgstr "Poäng: 0"
+
+#: src/klocklararen/main.py:114
+msgid "Next"
+msgstr "Nästa"
+
+#: src/klocklararen/main.py:151
+msgid "Correct! 🌟"
+msgstr "Rätt! 🌟"
+
+#: src/klocklararen/main.py:153
+#, python-format
+msgid "It was %s"
+msgstr "Den var %s"
+
+#: src/klocklararen/main.py:155
+#, python-format
+msgid "Score: %d"
+msgstr "Poäng: %d"
+
+#: src/klocklararen/main.py:165
+msgid "Learn to read the clock"
+msgstr "Lär dig klockan"
