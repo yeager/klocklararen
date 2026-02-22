@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: klocklararen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"POT-Creation-Date: 2026-02-22 20:04+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src/klocklararen/main.py:71 src/klocklararen/main.py:162
-msgid "Klockläraren"
+msgid "Clock Teacher"
 msgstr ""
 
 #: src/klocklararen/main.py:80

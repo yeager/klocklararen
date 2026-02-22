@@ -1,5 +1,6 @@
 [Desktop Entry]
-Name=Uklocklararen
+Name=Clock Teacher
+Name[sv]=Klockläraren
 Comment=Learn to read the clock for children with IF
 Comment[sv]=Lär sig klockan
 Exec=klocklararen

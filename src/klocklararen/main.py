@@ -68,7 +68,7 @@ class ClockFace(Gtk.DrawingArea):
 class MainWindow(Adw.ApplicationWindow):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.set_title(_('Klockläraren'))
+        self.set_title(_('Clock Teacher'))
         self.set_default_size(450, 550)
         self._target_h = random.randint(1,12)
         self._target_m = random.choice([0,15,30,45])
@@ -159,7 +159,7 @@ class App(Adw.Application):
         super().__init__(application_id='se.danielnylander.klocklararen')
         self.connect('activate', lambda a: MainWindow(application=a).present())
         about = Gio.SimpleAction.new('about', None)
-        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('Klockläraren'),
+        about.connect('activate', lambda a,p: Adw.AboutDialog(application_name=_('Clock Teacher'),
             application_icon=APP_ID, version=__version__, developer_name='Daniel Nylander',
             website='https://github.com/yeager/klocklararen', license_type=Gtk.License.GPL_3_0,
             comments=_('Learn to read the clock')).present(self.get_active_window()))
