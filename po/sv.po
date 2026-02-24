@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: klocklararen\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:20+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:22+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305245/sv/)\n"
@@ -21,40 +21,57 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/klocklararen/main.py:71 src/klocklararen/main.py:162
-msgid "Klockläraren"
+#: src/klocklararen/main.py:71 src/klocklararen/main.py:221
+#: src/klocklararen/main.py:229
+msgid "Clock Teacher"
 msgstr "Klockläraren"
 
-#: src/klocklararen/main.py:80
+#: src/klocklararen/main.py:88
+msgid "Klocklararen"
+msgstr "Klockläraren"
+
+#: src/klocklararen/main.py:94
 msgid "About"
 msgstr "Om"
 
-#: src/klocklararen/main.py:94
+#: src/klocklararen/main.py:108
 msgid "What time is it?"
 msgstr "Vad är klockan?"
 
-#: src/klocklararen/main.py:110
+#: src/klocklararen/main.py:124
 msgid "Score: 0"
 msgstr "Poäng: 0"
 
-#: src/klocklararen/main.py:114
+#: src/klocklararen/main.py:128
 msgid "Next"
 msgstr "Nästa"
 
-#: src/klocklararen/main.py:151
+#: src/klocklararen/main.py:165
 msgid "Correct! 🌟"
 msgstr "Rätt! 🌟"
 
-#: src/klocklararen/main.py:153
+#: src/klocklararen/main.py:167
 #, python-format
 msgid "It was %s"
 msgstr "Den var %s"
 
-#: src/klocklararen/main.py:155
+#: src/klocklararen/main.py:169
 #, python-format
 msgid "Score: %d"
 msgstr "Poäng: %d"
 
-#: src/klocklararen/main.py:165
+#: src/klocklararen/main.py:202
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/klocklararen/main.py:224
 msgid "Learn to read the clock"
 msgstr "Lär dig klockan"
+
+#: src/klocklararen/main.py:235
+msgid "Description here"
+msgstr "Beskrivning här"
+
+#: src/klocklararen/main.py:237
+msgid "Thanks to"
+msgstr "Tack till"
